@@ -71,7 +71,6 @@ We send an email about 3-4 emails per year. Sometimes less.
 ## Credits
 
 - [Arthur Monney][link-author]
-- [Jean-Vincent QUILICHINI][link-author-2]
 - [MailEclipse](https://github.com/Qoraiche/laravel-mail-editor)
 - [All Contributors][link-contributors]
 
@@ -85,6 +84,5 @@ The Shopper Framework is open-sourced software licensed under the [MIT license](
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
-[link-author]: https://github.com/mckenziearts
-[link-author-2]: https://github.com/sense
+[link-author]: https://github.com/StrongEffort
 [link-contributors]: ../../contributors
